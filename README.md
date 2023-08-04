@@ -1,4 +1,4 @@
-<h1>To Do List app v.0.1</h1>
+<h1>To Do List app v1.0</h1>
 <p>
   This is a To Do List app built using EJS, express and node.js.
   Languages:
